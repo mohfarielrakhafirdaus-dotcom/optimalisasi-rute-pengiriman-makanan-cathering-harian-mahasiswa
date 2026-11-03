@@ -28,3 +28,15 @@ Ubah angka jarak (km) pada variabel `matriks_jarak` di file `tsp.py`.
 ## Catatan
 
 Brute-force mencoba semua (n-1)! kemungkinan rute, sehingga hanya praktis untuk sekitar 10 lokasi atau kurang.
+
+
+## Anggota Kelompok
+
+| No | Nama | NIM |
+|----|------|-----|
+| 1 | Moh. Arya | F5512620078 |
+| 2 | Moh. Fariel Rakha Firdaus | F5512620059 |
+| 3 | Gabriel Djengko | F5512620082 |
+| 4 | Asmar Fathan | F5512620061 |
+| 5 | Chalista | F5512620089 |
+| 6 | Bilal Adijani | F5512620086 |
